@@ -1,5 +1,7 @@
 import math
 
+# Faça um programa que receba os valores dos catetos de um triângulo retângulo e que calcule e imprima a hipotenusa do triângulo.
+
 print ("\t-------------------------")
 print ("\t| Máquina de hipotenusa |")
 
