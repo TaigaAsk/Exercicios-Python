@@ -1,6 +1,7 @@
 from logging import PercentStyle
 
-#A Loja Limão com Mel está vendendo seus produtos em 7 (sete) prestações sem juros. Faça um programa que receba um valor de uma compra e mostre o valor das prestações
+#A Loja Limão com Mel está vendendo seus produtos em 7 (sete) prestações sem juros. 
+# Faça um programa que receba um valor de uma compra e mostre o valor das prestações
 
 
 print ("\t--------------------------")
